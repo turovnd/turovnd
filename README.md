@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.linkedin.com/in/turovnd">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=turovnd&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&theme=vue" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=turovnd&hide_title=true&hide_border=false&show_icons=true&count_private=true&theme=vue" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turovnd&hide=php&hide_title=true&hide_border=false&layout=compact&langs_count=7&theme=vue" />
 </a>
 

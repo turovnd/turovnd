@@ -23,6 +23,5 @@
  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=turovnd&theme=dark&hide_border=true&hide_title=true&include_all_commits=false&count_private=true&theme=vue)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=turovnd&theme=dark&hide_border=true&hide=php&hide_title=true&include_all_commits=false&count_private=true&layout=compact&theme=vue)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=turovnd&theme=dark&hide_border=true&theme=vue)
+![](https://github-stats-extended.vercel.app/api?username=turovnd&theme=dark&hide_border=true&hide_title=true&include_all_commits=false&count_private=true&theme=vue)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=turovnd&theme=dark&hide_border=true&hide=php&hide_title=true&include_all_commits=false&count_private=true&layout=compact&theme=vue)
